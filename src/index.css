@@ -1,4 +1,10 @@
 #root{
   min-width: 100vw;
   min-height: 100vh;
+  background-color: #f7f7ff;
+}
+body,html{
+  margin: 0;
+  font-family: "Public Sans", sans-serif;
+
 }
